@@ -19,6 +19,7 @@
 12. Clicar em "Submit"
 
 **Resultado esperado:** Formulário não é enviado e aparece uma mensagem de erro "The email field must be a valid email address."
+
 **Resultado obtido:** Mesmo que o esperado
 
 **Status:** Passou
