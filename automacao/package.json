@@ -1,0 +1,10 @@
+{
+  "name": "meus-testes",
+  "version": "1.0.0",
+  "scripts": {
+    "abrir": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0"
+  }
+}

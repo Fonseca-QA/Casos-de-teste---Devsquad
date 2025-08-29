@@ -1,0 +1,15 @@
+**/node_modules/
+npm-debug.log*
+**/cypress/videos/
+**/cypress/downloads/
+**/.cypress_cache/
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.tmp
+build/
+dist/
