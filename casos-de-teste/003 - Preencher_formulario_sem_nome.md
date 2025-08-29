@@ -20,6 +20,7 @@
 12. Clicar em "Submit"
 
 **Resultado esperado:** Formulário não é enviado e aparece uma mensagem de erro "The name field is required."
+
 **Resultado obtido:** Mesmo que o esperado
 
 **Status:** Passou
