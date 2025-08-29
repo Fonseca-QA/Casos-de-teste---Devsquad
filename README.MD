@@ -1,6 +1,6 @@
-## Testes do Formulário DevSquad
+## Testes do Formulário
 
-Projeto de testes do formulário fornecido pela Devsquad.
+Casos de testes de formulário.
 
 **Site testado:** https://qa-training.sbx.devsquad.app/
 
