@@ -22,3 +22,23 @@ Projeto de testes do formulário fornecido pela Devsquad.
 - **Testes manuais:** Chrome 
 - **Documentação:** VSCode  
 - **Automação:** Cypress
+
+## Rodando a automação do projeto
+
+**Clonar repositório:**
+
+- git clone https://github.com/Fonseca-QA/Casos-de-teste---Devsquad.git
+
+
+## Instalação da automação do projeto
+```bash
+npm instal 
+```
+> **Notas:**
+> É necessário ter **node** instalado
+> O **package.json** está dentro da subpasta automacao
+
+## Rodando a automação do projeto
+```bash
+# Abrir Cypress UI
+npx cypress open
