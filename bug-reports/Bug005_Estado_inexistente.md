@@ -18,6 +18,3 @@ Ao ir para a área de seleção de estado de nascimento, existe um estado chamad
 
 ## Gravidade
 **Médio** - Não impede cadastro, mas deixa uma opção que não deveria existir disponível, podendo levar a confusão por parte do usuário
-
-## Imagens do bug
-![Formatação errada](../Imagens/bug-telefone.png)
