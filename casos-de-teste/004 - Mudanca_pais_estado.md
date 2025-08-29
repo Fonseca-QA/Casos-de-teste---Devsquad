@@ -2,7 +2,7 @@
 
 **Objetivo:** Testar se ao selecionar o país "Brazil" aparecem apenas os estados deste país
 **Pré-condições:**
-- Acessar o site: [text](https://qa-training.sbx.devsquad.app/).
+- Acessar o site: [Formulário](https://qa-training.sbx.devsquad.app/).
 
 **Passos:**
 1. Abrir o site informado
