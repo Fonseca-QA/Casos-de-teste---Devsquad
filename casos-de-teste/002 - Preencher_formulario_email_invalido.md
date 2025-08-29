@@ -2,7 +2,7 @@
 
 
 **Pré-condições:**
-- Acessar o site: [formulário](https://qa-training.sbx.devsquad.app/).
+- Acessar o site: [Formulário](https://qa-training.sbx.devsquad.app/).
 
 **Passos:**
 1. Abrir o site informado
