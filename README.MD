@@ -6,9 +6,9 @@ Casos de testes de formulário de novo usuário.
 
 ## O que fiz
 
- **casos de teste** - testei as principais funcionalidades  
- **bugs encontrados** - documentei com prints  
- **testes automatizados** - automação com Cypress  
+ **casos de teste** - testei as principais funcionalidades do formulário 
+ **bug report** - documentação de bugs com imagens e vídeos  
+ **testes automatizados** - automação com Cypress
 
 ## Como navegar
 
