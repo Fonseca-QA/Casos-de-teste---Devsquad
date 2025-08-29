@@ -13,6 +13,8 @@
 
 
 **Resultado esperado:**  A checkbox deve aparecer como marcada e o sistema deve aceitar o envio e criar a conta, caso a checkbox não for marcada o envio não deve ser permitido.
+
+
 **Resultado obtido:** A checkbox não é marcada corretamente mas o sistema aceita o envio para a criação do formulário.
 
 **Status:** Falhou
