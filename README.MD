@@ -32,11 +32,11 @@ Projeto de testes do formulário fornecido pela Devsquad.
 
 ## Instalação da automação do projeto
 ```bash
-npm instal 
+npm install 
 ```
 > **Notas:**
-> É necessário ter **node** instalado
-> O **package.json** está dentro da subpasta automacao
+
+> O **package.json** está dentro da subpasta **automacao** para realizar o npm install do projeto
 
 ## Rodando a automação do projeto
 ```bash
