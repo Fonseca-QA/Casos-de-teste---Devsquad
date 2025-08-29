@@ -1,6 +1,6 @@
-## Testes do Formulário
+## Testes de Formulário de Cadastro
 
-Casos de testes de formulário.
+Casos de testes de formulário de novo usuário.
 
 **Site testado:** https://qa-training.sbx.devsquad.app/
 
