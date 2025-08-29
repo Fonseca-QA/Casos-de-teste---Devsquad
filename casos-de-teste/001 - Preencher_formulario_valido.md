@@ -2,7 +2,7 @@
 
 
 **Pré-condições:**
-- Acessar o site: [text](https://qa-training.sbx.devsquad.app/).
+- Acessar o site: [Formulário](https://qa-training.sbx.devsquad.app/).
 
 **Passos:**
 1. Abrir o site informado
@@ -19,6 +19,7 @@
 12. Clicar em "Submit"
 
 **Resultado esperado:** Formulário envia com sucesso e aparece uma mensagem "Client created succesfully!"
+
 **Resultado obtido:** Mesmo que o esperado
 
 **Status:** Passou
